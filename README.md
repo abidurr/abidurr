@@ -3,7 +3,7 @@
 Since my teenage years I've been describing myself as "Just a little guy lost in a big world full of things I don't understand. Trying to make the best of what I have and enjoying life as it comes." That still holds true to this day. So it goes.
 
 - 🔭 I’m currently working on: Myself, and becoming a better programmer.
-- 🌱 I’m currently learning TypeScript, Gatsby, and Web Dev in general.
+- 🌱 I’m currently learning: TypeScript, Gatsby, and Web Dev in general.
 - 👯 I’m looking to collaborate on: Life!
 - 🤔 I’m looking for help with: Figuring out life?
 - 💬 Ask me about: No, tell me about yourself and how life's been treating you.
