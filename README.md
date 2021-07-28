@@ -8,6 +8,6 @@ Since my teenage years I've been describing myself as "Just a little guy lost in
 - 🤔 I’m looking for help with: Figuring out life?
 - 💬 Ask me about: No, tell me about yourself and how life's been treating you.
 - 📫 How to reach me: abidur@tuta.io is a good bet.
-- 😄 Pronouns: He/Him/They/Them/She/Her.
+- 😄 Pronouns: He/His/She/Her/They/Their.
 - ⚡ Fun fact: I've been a legal resident of three different continents at the same time.
 
