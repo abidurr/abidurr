@@ -4,10 +4,10 @@ Since my teenage years I've been describing myself as "Just a little guy lost in
 
 - 🔭 I’m currently working on: Myself, and becoming a better programmer.
 - 🌱 I’m currently learning: React, TypeScript, GraphQL, and Web Dev in general.
-<!-- - 👯 I’m looking to collaborate on: Life!
-- 🤔 I’m looking for help with: Figuring out life?
-- 💬 Ask me about: No, tell me about yourself and how life's been treating you. -->
 - 📫 How to reach me: abidur@tuta.io is a good bet.
 - 😄 Pronouns: He/His/She/Her/They/Their.
 - ⚡ Fun fact: I've been a legal resident of three different continents at the same time.
 
+<!-- - 👯 I’m looking to collaborate on: Life!
+- 🤔 I’m looking for help with: Figuring out life?
+- 💬 Ask me about: No, tell me about yourself and how life's been treating you. -->
