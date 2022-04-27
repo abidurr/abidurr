@@ -5,7 +5,7 @@ Since my teenage years I've been describing myself as "Just a little guy lost in
 - 🔭 I’m currently working on: Myself, and becoming a better programmer.
 - 🌱 I’m currently learning: React, TypeScript, GraphQL, and Web Dev in general.
 - 📫 How to reach me: abidur@tuta.io is a good bet.
-- 😄 Pronouns: He/His/She/Her/They/Their.
+- 😄 Pronouns: Any.
 - ⚡ Fun fact: I've been a legal resident of three different continents at the same time.
 
 <!-- - 👯 I’m looking to collaborate on: Life!
