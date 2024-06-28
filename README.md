@@ -2,6 +2,8 @@
 
 Since my teenage years I've been describing myself as "Just a little guy lost in a big world full of things I don't understand. Trying to make the best of what I have and enjoying life as it comes." That still holds true to this day. So it goes.
 
+Find my website here: [abidur.dev](https://abidur.dev)
+
 - 🔭 I’m currently working on: Myself, and becoming a better programmer.
 - 🌱 I’m currently learning: React, TypeScript, GraphQL, and Web Dev in general.
 - 📫 How to reach me: abidur@tuta.io is a good bet.
