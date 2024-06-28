@@ -1,6 +1,6 @@
 ### Hi, I'm Abi! 👋
 
-Education wise, I have a background in Physics, Astronomy, and History. I've also been coding since I was 10 years old. I've done Arduino hardware, machine learning for Astronomy, data science, agent based modeling, database management software, among others. 
+Education wise, I have a background in Physics, Astronomy, and History. I've also been coding since I was 11 years old, first with HTML. Since then I've done Arduino hardware, machine learning for Astronomy, data science, agent based modeling, database management software, among others. 
 
 Now I focus on Web. My professional career started off as mostly frontend web and soon became mostly backend. Now I do both. My favorite technologies are Node, TypeScript and SQL.
 
