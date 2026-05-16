@@ -12,9 +12,8 @@ Find my website here: [abidur.dev](https://abidur.dev)
 - 🔭 I’m currently working on: Personal projects and travel logging.
 - 🌱 I’m currently learning: Everything React, TypeScript, Node.
 - 📫 How to reach me: abidur@tuta.io is a good bet.
-- 😄 Pronouns: Any.
 - ⚡ Fun fact: I've been a legal resident of three different continents at the same time.
 
-<!-- - 
+<!-- - - 😄 Pronouns: Any.
 - 🤔 I’m looking for help with: Figuring out life?
 - 💬 Ask me about: No, tell me about yourself and how life's been treating you. -->
