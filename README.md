@@ -4,8 +4,6 @@ Education wise, I have a background in Physics, Astronomy, and History. I've als
 
 Now I focus on Web. My professional career started off as mostly frontend web and soon became mostly backend. Now I do both. My favorite technologies are Node, TypeScript and SQL. I have 6+ years of experience in both FE and BE development.
 
-Since my teenage years I've been describing myself as "Just a little guy lost in a big world full of things I don't understand. Trying to make the best of what I have and enjoying life as it comes." and that still holds true to this day. Life is one long journey of learning and building.
-
 Find my website here: [abidur.dev](https://abidur.dev)
 
 - 👯 I’m looking for: Full stack roles.
