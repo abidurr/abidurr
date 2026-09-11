@@ -21,8 +21,9 @@
 ### Links
 
 - My website is [abidur.dev](https://abidur.dev)
-- My email is abidur@tuta.io
+- My email address is abidur@tuta.io
 - My LinkedIn is [here](https://www.linkedin.com/in/abidur-rahim-803758177/)
+- Find my resume [here](https://abidur.dev/AbidurRahimCV.pdf)
 - Schedule a Google Meet with me [here](https://cal.com/abidur/30min)
 
 <!-- Education wise, I have a background in Physics, Astronomy, and History. I've also been coding since I was 11 years old, first with HTML. Since then I've done Arduino hardware, machine learning for Astronomy, data science, agent based modeling, database management software, among others. 
