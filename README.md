@@ -2,14 +2,20 @@
 
 **I am currently open to full-stack/frontend/backend web development roles.**
 
-### Background
+### Experience
 
 - 6+ years of experience in full stack web development
+- Preferred stack: React, TypeScript, Node, SQL, GraphQL, AWS
+- Experience working on 16+ production applications
+- Experience working on both frontend and backend codebases
+- Founding engineer for multiple projects with most number of commits
+
+### Background
+
 - BSc Computational Science from a top 100 university
 - Started coding with HTML at age 11
 - Teaching experience in Physics, Math, and Computer Science
-- Preferred stack: React, TypeScript, Node, SQL, GraphQL, AWS
-- Additional experience with: Teaching, Arduino hardware development, AI, machine learning, data science, agent based modeling, database management, telescope operation
+- Additional experience with: Arduino hardware development, AI, machine learning, data science, agent based modeling, information security, database management, telescope operation
 - Fun fact: I've been a legal resident of three different continents at the same time
 
 ### Links
