@@ -10,7 +10,7 @@
 - Teaching experience in Physics, Math, and Computer Science
 - Preferred stack: React, TypeScript, Node, SQL, GraphQL, AWS
 - Additional experience with: Teaching, Arduino hardware development, AI, machine learning, data science, agent based modeling, database management, telescope operation
-- Fun fact: I've been a legal resident of three different continents at the same time.
+- Fun fact: I've been a legal resident of three different continents at the same time
 
 ### Links
 
