@@ -1,4 +1,4 @@
-### Hi, I'm Abi! 👋
+### Hi, I'm Abidur 👋
 
 Education wise, I have a background in Physics, Astronomy, and History. I've also been coding since I was 11 years old, first with HTML. Since then I've done Arduino hardware, machine learning for Astronomy, data science, agent based modeling, database management software, among others. 
 
