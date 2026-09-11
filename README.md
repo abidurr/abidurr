@@ -1,6 +1,6 @@
 ## Hi, I'm Abidur 👋
 
-I am currently open to full-stack/frontend/backend web development roles.
+**I am currently open to full-stack/frontend/backend web development roles.**
 
 ### Background
 
