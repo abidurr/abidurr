@@ -1,8 +1,8 @@
-## Hi, I'm Abidur 👋
+# Hi, I'm Abidur 👋
 
-**I am currently open to full-stack/frontend/backend web development roles.**
+**I am now open to full-stack, frontend, and backend web development roles**
 
-### Experience
+## Experience
 
 - 6+ years of experience in full stack web development
 - Preferred stack: React, TypeScript, Node, SQL, GraphQL, AWS
@@ -10,21 +10,21 @@
 - Founding engineer for multiple projects with most number of commits
 - Experience working on both frontend and backend codebases
 
-### Background
+## Background
 
 - BSc Computational Science from a top 100 university
 - Started coding with HTML at age 11
 - Teaching experience in Physics, Math, and Computer Science
 - Additional experience with: Arduino hardware development, AI, machine learning, data science, agent based modeling, information security, database management, telescope operation
-- Fun fact: I've been a legal resident of three different continents at the same time
+- Fun fact: I've been a legal resident of 3 different continents at the same time and have visited 23+ countries
 
-### Links
+## Links
 
 - My website is [abidur.dev](https://abidur.dev)
 - My email address is abidur@tuta.io
 - My LinkedIn is [here](https://www.linkedin.com/in/abidur-rahim-803758177/)
 - Find my resume [here](https://abidur.dev/AbidurRahimCV.pdf)
-- Schedule a Google Meet with me [here](https://cal.com/abidur/30min)
+- Schedule a Google Meet event with me [here](https://cal.com/abidur/30min)
 
 <!-- Education wise, I have a background in Physics, Astronomy, and History. I've also been coding since I was 11 years old, first with HTML. Since then I've done Arduino hardware, machine learning for Astronomy, data science, agent based modeling, database management software, among others. 
 
