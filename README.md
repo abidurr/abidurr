@@ -4,16 +4,16 @@
 
 ## Experience
 
-- 6+ years of experience in full stack web development
+- 6+ years of industry experience in full stack web development
 - Preferred stack: React, TypeScript, Node, SQL, GraphQL, AWS
-- Experience working on 16+ production applications
-- Founding engineer for multiple projects with most number of commits
-- Experience working on both frontend and backend codebases
+- Experience working on 16+ production applications over 4+ years
+- Founding engineer for 6+ years with most number of commits in a project
+- Experience working on both the frontend and the backend of codebases
 
 ## Background
 
 - BSc Computational Science from a top 100 university
-- Started coding with HTML at age 11
+- Started coding with HTML at age 11 and have not stopped
 - Teaching experience in Physics, Math, and Computer Science
 - Additional experience with: Arduino hardware development, AI, machine learning, data science, agent based modeling, information security, database management, telescope operation
 - Fun fact: I've been a legal resident of 3 different continents at the same time and have visited 23+ countries
