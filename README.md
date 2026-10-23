@@ -10,16 +10,6 @@
 - Founding engineer for 6+ years with most number of commits in a project
 - Experience working on both the frontend and the backend of codebases
 
-## Background
-
-- BSc Computational Science from a top 100 university
-- Started coding with HTML at age 11 and have not stopped
-- Teaching experience in Physics, Math, and Computer Science
-- Additional experience with: Arduino hardware development, AI, machine learning, data science, agent based modeling, information security, database management, telescope operation
-- Fun fact: I've been a legal resident of 3 different continents at the same time and have visited 23+ countries
-
-## Technologies
-
 ![](https://img.shields.io/badge/HTML-grey?logo=html5) 
 ![](https://img.shields.io/badge/CSS-grey?logo=css) 
 ![](https://img.shields.io/badge/JavaScript-grey?logo=javascript) 
@@ -43,6 +33,14 @@
 ![](https://img.shields.io/badge/Auth0-grey?logo=auth0)
 ![](https://img.shields.io/badge/Docker-grey?logo=docker)
 ![](https://img.shields.io/badge/Kubernetes-grey?logo=kubernetes)
+
+## Background
+
+- BSc Computational Science from a top 100 university
+- Started coding with HTML at age 11 and have not stopped
+- Teaching experience in Physics, Math, and Computer Science
+- Additional experience with: Arduino hardware development, AI, machine learning, data science, agent based modeling, information security, database management, telescope operation
+- Fun fact: I've been a legal resident of 3 different continents at the same time and have visited 23+ countries
 
 ## Links
 
