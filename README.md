@@ -4,12 +4,6 @@
 
 ## Experience
 
-- 6+ years of industry experience in full stack web development
-- Preferred stack: React, TypeScript, Node, SQL, GraphQL, AWS
-- Experience working on 16+ production applications over 4+ years
-- Founding engineer for 6+ years with most number of commits in a project
-- Experience working on both the frontend and the backend of codebases
-
 ![](https://img.shields.io/badge/HTML-grey?logo=html5) 
 ![](https://img.shields.io/badge/CSS-grey?logo=css) 
 ![](https://img.shields.io/badge/JavaScript-grey?logo=javascript) 
@@ -33,6 +27,12 @@
 ![](https://img.shields.io/badge/Auth0-grey?logo=auth0)
 ![](https://img.shields.io/badge/Docker-grey?logo=docker)
 ![](https://img.shields.io/badge/Kubernetes-grey?logo=kubernetes)
+
+- 6+ years of industry experience in full stack web development
+- Preferred stack: React, TypeScript, Node, SQL, GraphQL, AWS
+- Experience working on 16+ production applications over 4+ years
+- Founding engineer for 6+ years with most number of commits in a project
+- Experience working on both the frontend and the backend of codebases
 
 ## Background
 
