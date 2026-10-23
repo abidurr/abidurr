@@ -18,6 +18,32 @@
 - Additional experience with: Arduino hardware development, AI, machine learning, data science, agent based modeling, information security, database management, telescope operation
 - Fun fact: I've been a legal resident of 3 different continents at the same time and have visited 23+ countries
 
+## Technologies
+
+![](https://img.shields.io/badge/HTML-grey?logo=html5) 
+![](https://img.shields.io/badge/CSS-grey?logo=css) 
+![](https://img.shields.io/badge/JavaScript-grey?logo=javascript) 
+![](https://img.shields.io/badge/TypeScript-grey?logo=typescript) 
+![](https://img.shields.io/badge/React-grey?logo=react) 
+![](https://img.shields.io/badge/Next-grey?logo=nextdotjs) 
+![](https://img.shields.io/badge/Gatsby-grey?logo=gatsby) 
+![](https://img.shields.io/badge/Node-grey?logo=nodedotjs) 
+![](https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql) 
+![](https://img.shields.io/badge/MongoDB-grey?logo=mongodb) 
+![](https://img.shields.io/badge/InfluxDB-grey?logo=influxdb) 
+![](https://img.shields.io/badge/GraphQL-grey?logo=graphql) 
+![](https://img.shields.io/badge/Prisma-grey?logo=prisma) 
+![](https://img.shields.io/badge/Extensions-grey?logo=google-chrome) 
+![](https://img.shields.io/badge/Netlify-grey?logo=netlify) 
+![](https://img.shields.io/badge/Vercel-grey?logo=vercel) 
+![](https://img.shields.io/badge/GitHub-grey?logo=github)
+![](https://img.shields.io/badge/Bun-grey?logo=bun)
+![](https://img.shields.io/badge/pnpm-grey?logo=pnpm)
+![](https://img.shields.io/badge/Webpack-grey?logo=webpack)
+![](https://img.shields.io/badge/Auth0-grey?logo=auth0)
+![](https://img.shields.io/badge/Docker-grey?logo=docker)
+![](https://img.shields.io/badge/Kubernetes-grey?logo=kubernetes)
+
 ## Links
 
 - My website is [abidur.dev](https://abidur.dev)
