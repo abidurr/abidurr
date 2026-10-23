@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/Gatsby-grey?logo=gatsby) 
 ![](https://img.shields.io/badge/Node-grey?logo=nodedotjs) 
 ![](https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql) 
+![](https://img.shields.io/badge/MySQL-grey?logo=mysql) 
 ![](https://img.shields.io/badge/MongoDB-grey?logo=mongodb) 
 ![](https://img.shields.io/badge/InfluxDB-grey?logo=influxdb) 
 ![](https://img.shields.io/badge/GraphQL-grey?logo=graphql) 
