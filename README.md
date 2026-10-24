@@ -60,11 +60,11 @@
 
 ## Links
 
+- LinkedIn: [https://www.linkedin.com/in/abidur-rahim-803758177/](https://www.linkedin.com/in/abidur-rahim-803758177/)
 - Website: [abidur.dev](https://abidur.dev)
 - E-mail: abidur@tuta.io
-- LinkedIn: [https://www.linkedin.com/in/abidur-rahim-803758177/](https://www.linkedin.com/in/abidur-rahim-803758177/)
-- Résume: [cv.pdf](https://abidur.dev/AbidurRahimCV.pdf)
-- Schedule a Google Meet event with me [here](https://cal.com/abidur/30min)
+- Résume: [download.pdf](https://abidur.dev/AbidurRahimCV.pdf)
+- Schedule Google Meeting: [here](https://cal.com/abidur/30min)
 
 ## Experience
 
