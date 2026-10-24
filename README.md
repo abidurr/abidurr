@@ -36,6 +36,10 @@
 ![](https://img.shields.io/badge/Atlassian-grey?logo=Atlassian)
 ![](https://img.shields.io/badge/Jira-grey?logo=Jira)
 ![](https://img.shields.io/badge/Figma-grey?logo=figma)
+![](https://img.shields.io/badge/Tailwind-grey?logo=tailwindcss)
+![](https://img.shields.io/badge/Sass-grey?logo=sass)
+![](https://img.shields.io/badge/Astro-grey?logo=astro)
+![](https://img.shields.io/badge/Vue-grey?logo=vuedotjs)
 
 - 6+ years of industry experience in full stack web development
 - Preferred stack: React, TypeScript, Node, SQL, GraphQL, AWS
