@@ -1,6 +1,6 @@
 # Hi, I'm Abidur 👋
 
-**I am now open to full-stack, frontend, and backend web development roles.** My tech stack includes:
+**I'm open to full-stack, frontend, and backend web development roles.** My tech stack includes:
 
 ![](https://img.shields.io/badge/HTML-grey?logo=html5) 
 ![](https://img.shields.io/badge/CSS-grey?logo=css) 
