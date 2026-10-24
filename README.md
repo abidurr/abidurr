@@ -58,6 +58,7 @@
 ![](https://img.shields.io/badge/Sentry-grey?logo=sentry)
 ![](https://img.shields.io/badge/Zed-grey?logo=zedindustries)
 ![](https://img.shields.io/badge/VSCodium-grey?logo=vscodium)
+![](https://img.shields.io/badge/LM%20Studio-grey?logo=lmstudio)
 
 ## Links
 
