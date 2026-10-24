@@ -54,6 +54,9 @@
 ![](https://img.shields.io/badge/Zed-grey?logo=zedindustries)
 ![](https://img.shields.io/badge/VSCodium-grey?logo=vscodium)
 ![](https://img.shields.io/badge/Sentry-grey?logo=sentry)
+![](https://img.shields.io/badge/bash-grey?logo=gnubash)
+![](https://img.shields.io/badge/zsh-grey?logo=zsh)
+![](https://img.shields.io/badge/fish-grey?logo=fishshell)
 
 ## Experience
 
