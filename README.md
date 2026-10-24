@@ -43,7 +43,7 @@
 ![](https://img.shields.io/badge/Kali-grey?logo=kalilinux)
 ![](https://img.shields.io/badge/nvm-grey?logo=nvm)
 ![](https://img.shields.io/badge/C-grey?logo=c)
-![](https://img.shields.io/badge/redux-grey?logo=redux)
+![](https://img.shields.io/badge/Redux-grey?logo=redux)
 ![](https://img.shields.io/badge/Styled%20Components-grey?logo=styledcomponents)
 ![](https://img.shields.io/badge/RadixUI-grey?logo=radixui)
 ![](https://img.shields.io/badge/Zed-grey?logo=zedindustries)
