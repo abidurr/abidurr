@@ -39,6 +39,8 @@
 ![](https://img.shields.io/badge/Astro-grey?logo=astro)
 ![](https://img.shields.io/badge/Vue-grey?logo=vuedotjs)
 ![](https://img.shields.io/badge/GNU/Linux-grey?logo=linux)
+![](https://img.shields.io/badge/Fedora-grey?logo=fedora)
+![](https://img.shields.io/badge/Kali-grey?logo=kalilinux)
 
 ## Experience
 
