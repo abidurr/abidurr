@@ -1,6 +1,6 @@
 # Hi, I'm Abidur 👋
 
-**I am now open to full-stack, frontend, and backend web development roles**
+**I am now open to full-stack, frontend, and backend web development roles.** My tech stack includes:
 
 ![](https://img.shields.io/badge/HTML-grey?logo=html5) 
 ![](https://img.shields.io/badge/CSS-grey?logo=css) 
@@ -69,9 +69,9 @@
 ## Links
 
 - My website is [abidur.dev](https://abidur.dev)
-- My email address is abidur@tuta.io
+- My e-mail address is abidur@tuta.io
 - My LinkedIn is [here](https://www.linkedin.com/in/abidur-rahim-803758177/)
-- Find my resume [here](https://abidur.dev/AbidurRahimCV.pdf)
+- My résume is [here](https://abidur.dev/AbidurRahimCV.pdf)
 - Schedule a Google Meet event with me [here](https://cal.com/abidur/30min)
 
 <!-- Education wise, I have a background in Physics, Astronomy, and History. I've also been coding since I was 11 years old, first with HTML. Since then I've done Arduino hardware, machine learning for Astronomy, data science, agent based modeling, database management software, among others. 
