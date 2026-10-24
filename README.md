@@ -82,6 +82,10 @@
 - Additional experience with: Arduino hardware development, AI, machine learning, data science, agent based modeling, information security, database management, telescope operation
 - Fun fact: I've been a legal resident of 3 different continents at the same time and have visited 23+ countries
 
+## Job history
+
+- Backend Engineer, Sellfire, 2024-2026
+- Web Engineer, RapptrLabs, 2020-2024
 
 
 <!-- Education wise, I have a background in Physics, Astronomy, and History. I've also been coding since I was 11 years old, first with HTML. Since then I've done Arduino hardware, machine learning for Astronomy, data science, agent based modeling, database management software, among others. 
