@@ -2,7 +2,7 @@
 
 **I am now open to full-stack, frontend, and backend web development roles**
 
-## Experience
+## Technologies
 
 ![](https://img.shields.io/badge/HTML-grey?logo=html5) 
 ![](https://img.shields.io/badge/CSS-grey?logo=css) 
@@ -40,6 +40,8 @@
 ![](https://img.shields.io/badge/Sass-grey?logo=sass)
 ![](https://img.shields.io/badge/Astro-grey?logo=astro)
 ![](https://img.shields.io/badge/Vue-grey?logo=vuedotjs)
+
+## Experience
 
 - 6+ years of industry experience in full stack web development
 - Preferred stack: React, TypeScript, Node, SQL, GraphQL, AWS
