@@ -71,7 +71,7 @@
 - 6+ years of industry experience in full stack web development
 - Preferred stack: React, TypeScript, Node, SQL, GraphQL, AWS
 - Experience working on 16+ production applications over 4+ years
-- Founding engineer for 6+ years with most number of commits in a project
+- Founding engineer for 6 years with most number of commits on frontend
 - Experience working on both the frontend and the backend of codebases
 
 ## Background
