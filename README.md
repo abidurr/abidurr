@@ -58,6 +58,14 @@
 ![](https://img.shields.io/badge/Zed-grey?logo=zedindustries)
 ![](https://img.shields.io/badge/VSCodium-grey?logo=vscodium)
 
+## Links
+
+- My website is [abidur.dev](https://abidur.dev)
+- My e-mail address is abidur@tuta.io
+- My LinkedIn is [here](https://www.linkedin.com/in/abidur-rahim-803758177/)
+- My résume is [here](https://abidur.dev/AbidurRahimCV.pdf)
+- Schedule a Google Meet event with me [here](https://cal.com/abidur/30min)
+
 ## Experience
 
 - 6+ years of industry experience in full stack web development
@@ -74,13 +82,7 @@
 - Additional experience with: Arduino hardware development, AI, machine learning, data science, agent based modeling, information security, database management, telescope operation
 - Fun fact: I've been a legal resident of 3 different continents at the same time and have visited 23+ countries
 
-## Links
 
-- My website is [abidur.dev](https://abidur.dev)
-- My e-mail address is abidur@tuta.io
-- My LinkedIn is [here](https://www.linkedin.com/in/abidur-rahim-803758177/)
-- My résume is [here](https://abidur.dev/AbidurRahimCV.pdf)
-- Schedule a Google Meet event with me [here](https://cal.com/abidur/30min)
 
 <!-- Education wise, I have a background in Physics, Astronomy, and History. I've also been coding since I was 11 years old, first with HTML. Since then I've done Arduino hardware, machine learning for Astronomy, data science, agent based modeling, database management software, among others. 
 
