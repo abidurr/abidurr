@@ -41,6 +41,14 @@
 ![](https://img.shields.io/badge/GNU/Linux-grey?logo=linux)
 ![](https://img.shields.io/badge/Fedora-grey?logo=fedora)
 ![](https://img.shields.io/badge/Kali-grey?logo=kalilinux)
+![](https://img.shields.io/badge/nvm-grey?logo=nvm)
+![](https://img.shields.io/badge/C-grey?logo=c)
+![](https://img.shields.io/badge/redux-grey?logo=redux)
+![](https://img.shields.io/badge/Styled%20Components-grey?logo=styledcomponents)
+![](https://img.shields.io/badge/RadixUI-grey?logo=radixui)
+![](https://img.shields.io/badge/Zed-grey?logo=zedindustries)
+![](https://img.shields.io/badge/VSCodium-grey?logo=vscodium)
+![](https://img.shields.io/badge/Sentry-grey?logo=sentry)
 
 ## Experience
 
