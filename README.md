@@ -2,8 +2,6 @@
 
 **I am now open to full-stack, frontend, and backend web development roles**
 
-## Technologies
-
 ![](https://img.shields.io/badge/HTML-grey?logo=html5) 
 ![](https://img.shields.io/badge/CSS-grey?logo=css) 
 ![](https://img.shields.io/badge/JavaScript-grey?logo=javascript) 
