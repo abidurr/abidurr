@@ -62,13 +62,10 @@
 
 <a href="https://cal.com/abidur/30min" target="_blank" >![Schedule Meeting](https://img.shields.io/badge/Schedule%20%20Meeting-grey?style=for-the-badge&logo=google-meet)</a>
 
-LinkedIn: [https://www.linkedin.com/in/abidur-rahim-803758177/](https://www.linkedin.com/in/abidur-rahim-803758177/)
-
-Website: [abidur.dev](https://abidur.dev)
-
-E-mail: abidur@tuta.io
-
-Résume: [download.pdf](https://abidur.dev/AbidurRahimCV.pdf)
+- LinkedIn: [https://www.linkedin.com/in/abidur-rahim-803758177/](https://www.linkedin.com/in/abidur-rahim-803758177/)
+- Website: [abidur.dev](https://abidur.dev)
+- E-mail: abidur@tuta.io
+- Résume: [download.pdf](https://abidur.dev/AbidurRahimCV.pdf)
 
 ## Experience
 
