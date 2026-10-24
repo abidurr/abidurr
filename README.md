@@ -82,7 +82,7 @@
 - Additional experience with: Arduino hardware development, AI, machine learning, data science, agent based modeling, information security, database management, telescope operation
 - Fun fact: I've been a legal resident of 3 different continents at the same time and have visited 23+ countries
 
-## Job history
+## History
 
 - **Backend Engineer** (2024-2026) at Sellfire
 - **Web Engineer** (2020-2024) at RapptrLabs
