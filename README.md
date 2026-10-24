@@ -1,4 +1,4 @@
-# Hi, I'm Abidur 👋
+# Hi, I'm Abi 👋
 
 **I'm open to full-stack, frontend, and backend web development roles.** My tech stack includes:
 
