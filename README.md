@@ -29,6 +29,13 @@
 ![](https://img.shields.io/badge/Docker-grey?logo=docker)
 ![](https://img.shields.io/badge/Kubernetes-grey?logo=kubernetes)
 ![](https://img.shields.io/badge/Python-grey?logo=python)
+![](https://img.shields.io/badge/Arduino-grey?logo=arduino)
+![](https://img.shields.io/badge/C++-grey?logo=cplusplus)
+![](https://img.shields.io/badge/Mathematica-grey?logo=wolframmathematica)
+![](https://img.shields.io/badge/R-grey?logo=R)
+![](https://img.shields.io/badge/Atlassian-grey?logo=Atlassian)
+![](https://img.shields.io/badge/Jira-grey?logo=Jira)
+![](https://img.shields.io/badge/Figma-grey?logo=figma)
 
 - 6+ years of industry experience in full stack web development
 - Preferred stack: React, TypeScript, Node, SQL, GraphQL, AWS
