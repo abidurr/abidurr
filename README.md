@@ -28,6 +28,7 @@
 ![](https://img.shields.io/badge/Auth0-grey?logo=auth0)
 ![](https://img.shields.io/badge/Docker-grey?logo=docker)
 ![](https://img.shields.io/badge/Kubernetes-grey?logo=kubernetes)
+![](https://img.shields.io/badge/Python-grey?logo=python)
 
 - 6+ years of industry experience in full stack web development
 - Preferred stack: React, TypeScript, Node, SQL, GraphQL, AWS
