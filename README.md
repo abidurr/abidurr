@@ -60,10 +60,10 @@
 
 ## Links
 
-- My website is [abidur.dev](https://abidur.dev)
-- My e-mail address is abidur@tuta.io
-- My LinkedIn is [here](https://www.linkedin.com/in/abidur-rahim-803758177/)
-- My résume is [here](https://abidur.dev/AbidurRahimCV.pdf)
+- Website: [abidur.dev](https://abidur.dev)
+- E-mail: abidur@tuta.io
+- LinkedIn: [https://www.linkedin.com/in/abidur-rahim-803758177/](https://www.linkedin.com/in/abidur-rahim-803758177/)
+- Résume: [cv.pdf](https://abidur.dev/AbidurRahimCV.pdf)
 - Schedule a Google Meet event with me [here](https://cal.com/abidur/30min)
 
 ## Experience
