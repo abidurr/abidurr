@@ -61,11 +61,10 @@
 ## Links
 
 <a href="https://cal.com/abidur/30min" target="_blank" >![Schedule Meeting](https://img.shields.io/badge/Schedule%20Meeting-grey?style=for-the-badge&logo=google-meet)</a>
-
 <a href="https://www.linkedin.com/in/abidur-rahim-803758177/" target="_blank" >![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge)</a>
-
-<a href="https://abidur.dev" target="_blank" >![My Website](https://img.shields.io/badge/My%20Website:%20abidur.dev-grey?style=for-the-badge)</a>
-
+<a href="https://abidur.dev" target="_blank" >![My Website](https://img.shields.io/badge/www.abidur.dev-grey?style=for-the-badge)</a>
+<a href="https://abidur.dev/AbidurRahimCV.pdf" target="_blank" >![My Résume](https://img.shields.io/badge/Résume-grey?style=for-the-badge)</a>
+<a href="mailto:abidur@tuta.io" target="_blank" >![E-mail](https://img.shields.io/badge/abidur@tuta.io-grey?style=for-the-badge)</a>
 
 ## Experience
 
