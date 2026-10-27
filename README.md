@@ -51,6 +51,7 @@
 ![](https://img.shields.io/badge/Kali-grey?logo=kalilinux)
 ![](https://img.shields.io/badge/Netlify-grey?logo=netlify)
 ![](https://img.shields.io/badge/Vercel-grey?logo=vercel)
+![](https://img.shields.io/badge/git-grey?logo=git)
 ![](https://img.shields.io/badge/GitHub-grey?logo=github)
 ![](https://img.shields.io/badge/Figma-grey?logo=figma)
 ![](https://img.shields.io/badge/Atlassian-grey?logo=Atlassian)
