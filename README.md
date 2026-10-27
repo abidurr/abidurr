@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Alpine-grey?logo=alpinedotjs)
 ![](https://img.shields.io/badge/Qwik-grey?logo=qwik)
 ![](https://img.shields.io/badge/Solid-grey?logo=solid)
-![](https://img.shields.io/badge/Styled%20Components-grey?logo=styledcomponents)
+![](https://img.shields.io/badge/styled-components-grey?logo=styledcomponents)
 ![](https://img.shields.io/badge/Radix%20UI-grey?logo=radixui)
 ![](https://img.shields.io/badge/Webpack-grey?logo=webpack)
 ![](https://img.shields.io/badge/Extensions-grey?logo=google-chrome)
